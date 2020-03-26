@@ -1,0 +1,5 @@
+Fullname: OYEBODE Faith Amos
+Email: oyebodefaith3@gmail.com
+Slack Username: @worldclassdev
+Track: Backend
+Courses Registered: NodeJS, PHP
